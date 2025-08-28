@@ -1,10 +1,6 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Rehab Mahmoud
 
-[![](https://img.shields.io/badge/-@RehabMahmoud-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/your-handle)
-[![](https://img.shields.io/badge/-@RehabMahmoud-%23181717?style=flat-square&logo=github)](https://github.com/your-github-username)
-[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/your-linkedin/)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=Portfolio&url=https%3A%2F%2Fyour-portfolio.example)](https://your-portfolio.example)
-
+[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rehab-mahmoud-00a4a9245/)
 💡 **Mechanical Power Engineering student | Data Analysis Enthusiast**  
 📊 Turning raw data into actionable insights (Python • SQL • Power BI)  
 🏗 Bridging **BIM** (Revit, Navisworks) with data-driven decisions
@@ -55,9 +51,6 @@
   _Tech:_ Python, Pandas, SQL  
   **Repo:** https://github.com/your-github-username/eda-cleaning
 
-- **BIM Clash Review Notes (Revit/Navisworks)** – MEP clash detection workflow & checklists.  
-  _Tech:_ Revit, Navisworks  
-  **Repo:** https://github.com/your-github-username/bim-data-notes
 
 ---
 
