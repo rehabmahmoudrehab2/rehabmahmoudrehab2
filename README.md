@@ -38,14 +38,22 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
-
 ---
+## 📚 Featured Projects
+
+- **Excel Data Analysis – Waffarha**  
+  Exploratory data analysis & visualization of sales data using **Excel** (Pivot Tables, Charts, KPIs).  
+  🔗 [View Project](https://github.com/rehabmahmoudrehab2/Execl-Data-Analysis-_waffarha)
+
+- **Middle East Sales Dashboard**  
+  Designed a dynamic **Excel Dashboard** to track KPIs (revenue, growth, sales by country, category analysis).  
+  🔗 [View Project](https://github.com/rehabmahmoudrehab2/Middle_East_Sales_Dashboard)
 
 
 ---
 
 ## ✨ About Me
--Iam intered data-driven decisions  
+- I am intersed data-driven decisions  
 - Open to internships and freelance data analysis work
 
 ---
