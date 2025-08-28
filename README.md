@@ -41,22 +41,11 @@
 
 ---
 
-## 📚 Featured Projects
-
-- **E-commerce KPI Dashboard (Power BI)** – Revenue trends, payment accuracy, delivery delays, late orders.  
-  _Tech:_ Power BI, DAX, Data Modeling  
-  **Repo:** https://github.com/your-github-username/powerbi-dashboards
-
-- **Olist EDA & Reconciliation (Python/SQL)** – Data cleaning, KPI computation, monthly closing.  
-  _Tech:_ Python, Pandas, SQL  
-  **Repo:** https://github.com/your-github-username/eda-cleaning
-
 
 ---
 
 ## ✨ About Me
-- 3rd-year **Mechanical Engineering (Power)** student @ Cairo University  
-- Interested in energy systems, operations efficiency, and data-driven decisions  
+-Iam intered data-driven decisions  
 - Open to internships and freelance data analysis work
 
 ---
